@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+scapy
+jupyter
+notebook
+torch
+torchvision
+torchaudio
+tensorflow
+flask
+fastapi
+uvicorn
+requests
